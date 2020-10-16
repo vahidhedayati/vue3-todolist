@@ -1,5 +1,6 @@
-# my_project
-
+# vue3-todolist
+Basic vue 3 application using vue router. Vuex installed not configured.
+  
 ## Project setup
 ```
 npm install
@@ -22,4 +23,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# vue3-todolist
+
